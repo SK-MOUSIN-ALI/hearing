@@ -839,4 +839,8 @@ footer {
     .navbar-brand img {
         width: 100px;
       }
+    .contact h4 {
+        font-size: 16px;
+        margin-bottom: 5px !important;
+    }
 }
